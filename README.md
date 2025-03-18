@@ -39,7 +39,7 @@ An AI-powered system for dynamic car price prediction, trend analysis, and autom
 | Phase      | Description                             | Status       |
 |-----------|-----------------------------------------|-------------|
 | **Phase 1** | Define the Problem & Gather Data       | ✅ Completed |
-| **Phase 2** | Model Development & Training          | ✅ In Progress |
+| **Phase 2** | Model Development & Training          | ✅ Completed |
 | **Phase 3** | Automation & Backend Development      | 🔲 Not Started |
 | **Phase 4** | Email Reporting System                | 🔲 Not Started |
 | **Phase 5** | Testing & Optimization                | 🔲 Not Started |
